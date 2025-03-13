@@ -7,4 +7,4 @@ The `setup-frappeui.sh` script automates the setup of a Vue.js Tailwindcss and F
 - Integrates FrappeUI for additional UI components and utilities.
 - Configures Vite for optimal development and build performance.
 
-To use the script, run `setup-frapppeui <project-name>` in your desired directory after making it executable and adding it to your `PATH`.
+To use the script, run `setup-frapppeui <project-name>` in your desired directory.
